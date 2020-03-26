@@ -1,6 +1,6 @@
 # ssmstudy
 
-spring mvc + mybatis + mysql + maven + git
+spring mvc + mybatis + mysql + html + jquery + maven + git
 
 lvhaixiang吕海翔  zhaoyingxia赵英霞
 
